@@ -1,5 +1,5 @@
 {
-  "name": "macgirvin/http-message-signer",
+  "name": "bobbie/http-message-signer-fork",
   "description": "RFC 9421 HTTP Message Signer and Verifier for PSR-7 requests",
   "type": "library",
   "require": {
